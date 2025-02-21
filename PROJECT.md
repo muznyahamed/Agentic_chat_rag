@@ -9,7 +9,7 @@ This project is a Flask-based web application that implements user authenticatio
 - User Authentication System
   - User registration
   - User login/logout
-  - Password hashing for security
+  - Password hashing for security hey
   - User session management
 - Basic user profile management
 - Secure route protection
